@@ -1,7 +1,9 @@
 # ------------------------------------------------------
 # Convierte un número binario a hexadecimal.
 # El número binario es un string e.g. "101"
-# Este fichero ha sido modificado por Malena
+
+# ESTE FICHERO HA SIDO MODIFICADO POR DENISA, SUBORDINADA BAJO EL DICTATORIAL MANDATO DE MALENA
+
 # El número hexadecimal es también un string e.g. "AB5"
 # ------------------------------------------------------
 
