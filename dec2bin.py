@@ -4,6 +4,7 @@
 # El binario resultante es un string e.g. "101"
 # Se usa la función bin() que transforma e.g. 3 en "0b11".
 # En esta función se quita el "0b" para dejar el "11"
+# Este fichero ha sido modificado por Laura
 # ------------------------------------------------------
 def dec2bin(numero_decimal, numero_bits):
     numero_binario = bin(numero_decimal)
